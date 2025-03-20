@@ -59,4 +59,4 @@ Download and install **Visual Studio Code**.
 
 ## 4️⃣ Install Required Libraries  
 - Open **VS Code Terminal** (`Ctrl + ~`) and run:
-  - pip install <library-name>
+  - pip install library-name
