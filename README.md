@@ -38,3 +38,25 @@ Line charts for trends (plt.plot())
 ✅ Conclusion
 A step-by-step process for efficient data analysis
 Ensures clean, structured, and visualized insights
+
+
+# 🚀 How to Run the Project  
+
+Follow these steps to set up and run the project:  
+
+## 1️⃣ Install VS Code  
+Download and install **Visual Studio Code**.  
+
+## 2️⃣ Install Jupyter Notebook Extension  
+- Open **VS Code**.  
+- Go to the **Extensions Marketplace** (`Ctrl + Shift + X`).  
+- Search for **"Jupyter"** and click **Install**.
+
+## 3️⃣ Download and Install Python  
+- Download and install **Python**.  
+- Ensure **"Add Python to PATH"** is checked during installation.  
+
+
+## 4️⃣ Install Required Libraries  
+- Open **VS Code Terminal** (`Ctrl + ~`) and run:
+  - pip install <library-name>
