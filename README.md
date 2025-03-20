@@ -1,5 +1,5 @@
-Data Analysis Process 🚀
-A structured approach to analyzing data using Python.
+# Data Analysis Process 🚀
+## A structured approach to analyzing data using Python.
 
 📂 1. Importing CSV Data
 Load data using pandas (read_csv())
