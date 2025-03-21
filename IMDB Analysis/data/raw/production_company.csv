@@ -1,0 +1,346 @@
+,movie_id,production_company
+0,0,Castle Rock Entertainment
+0,0,Shangri-La Entertainment
+0,0,Playtone
+1,1,None
+2,2,Castle Rock Entertainment
+2,2,Darkwoods Productions
+2,2,Warner Bros.
+3,3,None
+4,4,Castle Rock Entertainment
+4,4,Village Roadshow Pictures
+4,4,NPV Entertainment
+5,5,Columbia Pictures
+5,5,Castle Rock Entertainment
+6,6,None
+7,7,Castle Rock Entertainment
+7,7,Village Roadshow Pictures
+7,7,NPV Entertainment
+8,8,Castle Rock Entertainment
+8,8,Nelson Entertainment
+8,8,Nelson Entertainment
+9,9,Castle Rock Entertainment
+9,9,Jerry Bruckheimer Films
+9,9,Warner Bros.
+10,10,Paramount Pictures
+10,10,Skydance Media
+10,10,Jerry Bruckheimer Films
+11,11,Twentieth Century Fox
+11,11,Paramount Pictures
+11,11,Lightstorm Entertainment
+12,12,Warner Bros.
+12,12,Heyday Films
+12,12,LuckyChap
+13,13,Marvel Studios
+13,13,Paramount Pictures
+14,14,Marvel Studios
+14,14,Paramount Pictures
+14,14,DMG Entertainment
+15,15,Paramount Pictures
+15,15,Dreamworks Pictures
+15,15,Hasbro
+16,16,Walt Disney Pictures
+16,16,Fairview Entertainment
+16,16,Moving Picture Company (MPC)
+17,17,Paramount Pictures
+17,17,Hasbro
+17,17,Di Bonaventura Pictures
+18,18,Columbia Pictures
+18,18,Marvel Studios
+18,18,Pascal Pictures
+19,19,Paramount Pictures
+19,19,The Steve Tisch Company
+19,19,Wendy Finerman Productions
+22,22,Warner Bros.
+22,22,Legendary Entertainment
+22,22,Syncopy
+23,23,Walt Disney Pictures
+23,23,Mandeville Films
+24,24,Warner Bros.
+24,24,Legendary Entertainment
+24,24,DC Entertainment
+25,25,Warner Bros.
+25,25,Atlas Entertainment
+25,25,Cruel & Unusual Films
+26,26,Warner Bros.
+26,26,Heyday Films
+27,27,Warner Bros.
+27,27,DC Entertainment
+27,27,6th & Idaho Productions
+28,28,Warner Bros.
+28,28,Village Roadshow Pictures
+28,28,RatPac-Dune Entertainment
+29,29,Warner Bros.
+29,29,Village Roadshow Pictures
+29,29,BRON Studios
+30,30,Universal Pictures
+30,30,Amblin Entertainment
+30,30,Legendary Entertainment
+31,31,Universal Pictures
+31,31,Nintendo
+31,31,Illumination Entertainment
+32,32,Universal Pictures
+32,32,Marc Platt Productions
+32,32,Moving Pictures (I)
+33,33,None
+34,34,Universal Pictures
+34,34,Amblin Entertainment
+35,35,Universal Pictures
+35,35,Amblin Entertainment
+35,35,Legendary Entertainment
+36,36,Universal Pictures
+36,36,Amblin Entertainment
+37,37,Universal Pictures
+37,37,Amblin Entertainment
+37,37,Perfect World Pictures
+38,38,Universal Pictures
+38,38,Illumination Entertainment
+39,39,Universal Pictures
+39,39,Illumination Entertainment
+39,39,Dentsu
+40,40,New Line Cinema
+40,40,WingNut Films
+40,40,The Saul Zaentz Company
+41,41,New Line Cinema
+41,41,WingNut Films
+41,41,The Saul Zaentz Company
+42,42,New Line Cinema
+42,42,RatPac-Dune Entertainment
+42,42,Vertigo Entertainment
+43,43,New Line Cinema
+43,43,WingNut Films
+43,43,Marzano Films
+44,44,Metro-Goldwyn-Mayer (MGM)
+44,44,New Line Cinema
+44,44,WingNut Films
+45,45,Metro-Goldwyn-Mayer (MGM)
+45,45,New Line Cinema
+45,45,WingNut Films
+46,46,New Line Cinema
+46,46,Metro-Goldwyn-Mayer (MGM)
+46,46,WingNut Films
+47,47,None
+48,48,New Line Cinema
+48,48,Gratitude International
+48,48,Team Todd
+49,49,New Line Cinema
+49,49,Double Dream
+49,49,Vertigo Entertainment
+53,53,Universal Pictures
+53,53,Media Rights Capital (MRC)
+53,53,Fuzzy Door Productions
+54,54,Miramax
+54,54,Producers Circle
+54,54,Storyline Entertainment
+55,55,Blumhouse Productions
+55,55,Miramax
+55,55,Night Blade Holdings
+56,56,Dimension Films
+56,56,Wayans Bros. Entertainment
+56,56,Gold/Miller Productions
+57,57,None
+58,58,Miramax
+58,58,Lawrence Bender Productions
+58,58,Be Gentlemen Limited Partnership
+59,59,None
+60,60,None
+61,61,None
+62,62,None
+63,63,None
+64,64,None
+65,65,None
+66,66,None
+67,67,Produzioni Europee Associate (PEA)
+67,67,Les Productions Artistes Associés
+68,68,None
+69,69,None
+70,70,Lucasfilm
+70,70,Bad Robot
+71,71,Columbia Pictures
+71,71,Pascal Pictures
+71,71,Marvel Studios
+72,72,Lucasfilm
+72,72,Ram Bergman Productions
+72,72,Bad Robot
+73,73,Lucasfilm
+73,73,Allison Shearmur Productions
+74,74,Lucasfilm
+74,74,Bad Robot
+74,74,British Film Commission
+75,75,Lucasfilm
+76,76,Lucasfilm
+76,76,Twentieth Century Fox
+77,77,Walt Disney Pictures
+77,77,Pixar Animation Studios
+78,78,Columbia Pictures
+78,78,Pascal Pictures
+78,78,Marvel Studios
+79,79,Lucasfilm
+79,79,Mestiere Cinema
+79,79,Pandora Films
+80,80,Warner Bros.
+80,80,Legendary Entertainment
+80,80,Disruption Entertainment
+81,81,Legendary Entertainment
+81,81,Screen Queensland
+81,81,Warner Bros.
+82,82,Warner Bros.
+82,82,Legendary Entertainment
+82,82,Tencent Pictures
+83,83,Walt Disney Animation Studios
+83,83,Walt Disney Productions
+84,84,Warner Bros.
+84,84,Legendary Entertainment
+84,84,The Pokemon Company
+85,85,New Line Cinema
+85,85,Roger Birnbaum Productions
+86,86,Columbia Pictures
+86,86,Don Simpson/Jerry Bruckheimer Films
+87,87,Warner Bros.
+87,87,Amblin Entertainment
+87,87,Village Roadshow Pictures
+89,89,Paramount Pictures
+89,89,Mutual Film Company
+89,89,BBC Film
+92,92,Paramount Pictures
+92,92,Dreamworks Pictures
+92,92,Hasbro
+93,93,Universal Pictures
+93,93,Dreamworks Pictures
+93,93,Tribeca Productions
+94,94,Dreamworks Pictures
+94,94,DreamWorks Animation
+94,94,Pacific Data Images (PDI)
+95,95,Paramount Pictures
+95,95,Dreamworks Pictures
+95,95,Amblin Entertainment
+96,96,None
+97,97,Dreamworks Pictures
+97,97,Paramount Pictures
+97,97,Amblin Entertainment
+98,98,Dreamworks Pictures
+98,98,Universal Pictures
+98,98,Scott Free Productions
+99,99,Dreamworks Pictures
+99,99,Twentieth Century Fox
+99,99,Reliance Entertainment
+100,100,Marvel Studios
+101,101,None
+102,102,None
+103,103,None
+104,104,None
+105,105,None
+106,106,None
+107,107,None
+108,108,None
+109,109,None
+112,112,None
+114,114,Paramount Pictures
+114,114,Marvel Entertainment
+114,114,Marvel Studios
+115,115,Paramount Pictures
+115,115,Marvel Entertainment
+115,115,Marvel Studios
+118,118,None
+119,119,DreamWorks Animation
+119,119,Pacific Data Images (PDI)
+120,120,Walt Disney Pictures
+120,120,Pixar Animation Studios
+120,120,Hurwitz Creative
+121,121,Walt Disney Pictures
+121,121,Pixar Animation Studios
+122,122,Walt Disney Pictures
+122,122,Fairview Entertainment
+122,122,Walt Disney Studios
+124,124,Pixar Animation Studios
+124,124,Walt Disney Pictures
+125,125,Walt Disney Animation Studios
+125,125,Walt Disney Pictures
+126,126,Walt Disney Animation Canada
+126,126,Walt Disney Animation Studios
+126,126,Walt Disney Pictures
+129,129,Walt Disney Pictures
+129,129,Jerry Bruckheimer Films
+129,129,Second Mate Productions
+130,130,Touchstone Pictures
+130,130,Blinding Edge Pictures
+130,130,The Kennedy/Marshall Company
+131,131,None
+132,132,Touchstone Pictures
+132,132,Jerry Bruckheimer Films
+134,134,None
+135,135,Columbia Pictures
+135,135,Beacon Communications
+135,135,Beacon Pictures
+136,136,DreamWorks
+136,136,Dreamworks Pictures
+136,136,Reliance Film & Entertainment
+137,137,None
+138,138,None
+139,139,None
+140,140,Charles Chaplin Productions
+141,141,Charles Chaplin Productions
+142,142,Charles Chaplin Productions
+143,143,Charles Chaplin Productions
+144,144,Charles Chaplin Productions
+145,145,Charles Chaplin Productions
+146,146,Charles Chaplin Productions
+147,147,Charles Chaplin Productions
+148,148,Charles Chaplin Productions
+149,149,Charles Chaplin Productions
+151,151,Haxan Films
+152,152,Warner Bros.
+152,152,The Bedford Falls Company
+152,152,Cruise/Wagner Productions
+153,153,Lionsgate
+153,153,Millennium Films
+153,153,Nu Image Entertainment GmbH
+154,154,Forward Pass
+154,154,Appian Way
+154,154,IMF Internationale Medien und Film GmbH & Co. 3. Produktions KG
+155,155,Warner Bros.
+155,155,Lakeshore Entertainment
+155,155,Malpaso Productions
+156,156,Alcon Entertainment
+156,156,Silver Pictures
+157,157,Lionsgate
+157,157,Millennium Films
+157,157,Nu Image Entertainment GmbH
+158,158,Miramax
+158,158,Paramount Pictures
+158,158,Mirage Enterprises
+159,159,Fox 2000 Pictures
+159,159,Regency Enterprises
+159,159,New Regency Productions
+160,160,None
+161,161,None
+162,162,Alfred J. Hitchcock Productions
+163,163,None
+164,164,None
+165,165,None
+166,166,None
+167,167,Alfred J. Hitchcock Productions
+168,168,None
+169,169,Alfred J. Hitchcock Productions
+174,174,Walt Disney Pictures
+174,174,Pixar Animation Studios
+175,175,Walt Disney Pictures
+175,175,Pixar Animation Studios
+177,177,Pixar Animation Studios
+177,177,Walt Disney Pictures
+178,178,Walt Disney Pictures
+178,178,Pixar Animation Studios
+179,179,Walt Disney Pictures
+179,179,Pixar Animation Studios
+180,180,Marvel Studios
+182,182,Marvel Studios
+183,183,Marvel Studios
+183,183,Jason Roberts Productions
+183,183,South Pictures
+184,184,Marvel Studios
+184,184,20th Century Studios
+184,184,Maximum Effort
+187,187,Marvel Studios
+188,188,Marvel Studios
+188,188,Animal Logic
+189,189,Marvel Studios

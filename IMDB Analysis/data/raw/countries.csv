@@ -1,0 +1,329 @@
+,movie_id,countries
+0,0,United States
+0,0,Australia
+1,1,United States
+1,1,Color
+2,2,United States
+2,2,Color
+3,3,United States
+3,3,Color
+4,4,United States
+4,4,Color
+5,5,United States
+5,5,Color
+6,6,United States
+6,6,Color
+7,7,United States
+7,7,Australia
+8,8,United States
+8,8,Color
+9,9,United States
+9,9,Australia
+10,10,United States
+10,10,Color
+11,11,United States
+11,11,Color
+12,12,United States
+12,12,United Kingdom
+13,13,United States
+13,13,Color
+14,14,United States
+14,14,Color
+15,15,United States
+15,15,Jordan
+16,16,United Kingdom
+16,16,United States
+17,17,United States
+17,17,Hong Kong
+18,18,United States
+18,18,Dolby Atmos
+19,19,United States
+19,19,Color
+22,22,United States
+22,22,United Kingdom
+23,23,United States
+23,23,Color
+24,24,United States
+24,24,United Kingdom
+25,25,United States
+25,25,China
+26,26,United Kingdom
+26,26,United States
+27,27,United States
+27,27,Color
+28,28,United States
+28,28,Color
+29,29,United States
+29,29,Canada
+30,30,United States
+30,30,Canada
+31,31,United States
+31,31,Japan
+32,32,United States
+32,32,Japan
+33,33,United States
+33,33,DTS
+34,34,United States
+34,34,Color
+35,35,United States
+35,35,China
+36,36,United States
+36,36,Color
+37,37,United States
+37,37,China
+38,38,United States
+38,38,France
+39,39,United States
+39,39,France
+40,40,New Zealand
+40,40,United States
+41,41,New Zealand
+41,41,United States
+42,42,United States
+42,42,Canada
+43,43,New Zealand
+43,43,United States
+44,44,New Zealand
+44,44,United States
+45,45,New Zealand
+45,45,United States
+46,46,New Zealand
+46,46,United States
+47,47,United States
+47,47,Hong Kong
+48,48,United States
+48,48,Color
+49,49,United States
+49,49,Canada
+53,53,United States
+53,53,Color
+54,54,United States
+54,54,Germany
+55,55,United States
+55,55,Color
+56,56,United States
+56,56,Color
+57,57,United States
+57,57,Color
+58,58,United States
+58,58,Color
+59,59,United States
+59,59,Color
+60,60,Italy
+60,60,France
+61,61,Italy
+61,61,Spain
+62,62,Italy
+62,62,Spain
+63,63,Italy
+63,63,France
+64,64,Italy
+64,64,France
+65,65,United States
+65,65,Black and White
+66,66,Italy
+66,66,France
+67,67,Italy
+67,67,France
+68,68,Italy
+68,68,France
+69,69,Italy
+69,69,France
+70,70,United States
+70,70,United Kingdom
+71,71,United States
+71,71,Color
+72,72,United States
+72,72,Color
+73,73,United States
+73,73,Color
+74,74,United States
+74,74,United Kingdom
+75,75,United States
+75,75,United Kingdom
+76,76,United States
+76,76,Color
+77,77,United States
+77,77,Color
+78,78,United States
+78,78,Czech Republic
+79,79,United States
+79,79,Italy
+80,80,United States
+80,80,Japan
+81,81,United States
+81,81,Australia
+82,82,United States
+82,82,China
+83,83,United States
+83,83,Color
+84,84,United States
+84,84,Japan
+85,85,United States
+85,85,Color
+86,86,United States
+86,86,Color
+87,87,United States
+87,87,India
+89,89,United States
+89,89,United Kingdom
+92,92,United States
+92,92,Color
+93,93,United States
+93,93,Color
+94,94,United States
+94,94,Dolby Digital
+95,95,United States
+95,95,Color
+96,96,United States
+96,96,Color
+97,97,United States
+97,97,Color
+98,98,United States
+98,98,United Kingdom
+99,99,United States
+99,99,India
+100,100,United States
+100,100,Color
+101,101,Japan
+101,101,Color
+102,102,United States
+102,102,South Korea
+103,103,Japan
+103,103,Color
+104,104,Japan
+104,104,Color
+105,105,Japan
+105,105,United States
+106,106,Japan
+106,106,United States
+107,107,France
+107,107,Belgium
+108,108,Japan
+108,108,Color
+109,109,Japan
+109,109,Color
+112,112,United States
+112,112,Color
+114,114,United States
+114,114,Canada
+115,115,United States
+115,115,Color
+118,118,United States
+118,118,France
+119,119,United States
+119,119,India
+120,120,United States
+120,120,Color
+121,121,United States
+121,121,Japan
+122,122,United States
+122,122,United Kingdom
+124,124,United States
+124,124,Color
+125,125,Japan
+125,125,United States
+126,126,United States
+126,126,Canada
+129,129,United States
+129,129,Color
+130,130,United States
+130,130,Color
+131,131,United States
+131,131,Color
+132,132,United States
+132,132,Color
+134,134,United States
+134,134,Color
+135,135,United States
+135,135,Color
+136,136,United States
+136,136,India
+137,137,United States
+137,137,Color
+138,138,United States
+138,138,Color
+139,139,United States
+139,139,Color
+140,140,United States
+140,140,Black and White
+141,141,United States
+141,141,Black and White
+142,142,United States
+142,142,Black and White
+143,143,United States
+143,143,Black and White
+144,144,United States
+144,144,Black and White
+145,145,United States
+145,145,Silent
+146,146,United States
+146,146,Black and White
+147,147,United States
+147,147,Black and White
+148,148,United States
+148,148,Silent
+149,149,United States
+149,149,Black and White
+151,151,United States
+151,151,Color
+152,152,United States
+152,152,New Zealand
+153,153,United States
+153,153,Bulgaria
+154,154,United States
+154,154,Germany
+155,155,United States
+155,155,Color
+156,156,United States
+156,156,Color
+157,157,United States
+157,157,Germany
+158,158,United States
+158,158,Color
+159,159,Switzerland
+159,159,United Kingdom
+160,160,United States
+160,160,Color
+161,161,United States
+161,161,Black and White
+162,162,United States
+162,162,Color
+163,163,United States
+163,163,Black and White
+164,164,United States
+164,164,Color
+165,165,United States
+165,165,Color
+166,166,United States
+166,166,United Kingdom
+167,167,United States
+167,167,Color
+168,168,United States
+168,168,Color
+169,169,United States
+169,169,Color
+174,174,United States
+174,174,Color
+175,175,United States
+175,175,Japan
+177,177,United States
+177,177,Color
+178,178,United States
+178,178,Color
+179,179,United States
+179,179,Color
+180,180,United States
+180,180,Dolby Atmos
+182,182,United States
+182,182,Dolby Atmos
+183,183,United States
+183,183,Norway
+184,184,United States
+184,184,United Kingdom
+187,187,United States
+187,187,IMAX 6-Track
+188,188,United States
+188,188,Australia
+189,189,United States
+189,189,Color
