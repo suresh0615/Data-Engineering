@@ -1,7 +1,7 @@
 # Data Analysis Process 🚀
 ## A structured approach to analyzing data using Python.
 
-📂 1. Importing CSV Data
+📂 1. Scraping the Data using Scrapy,Beautiful Soap/ Importing CSV Data
 Load data using pandas (read_csv())
 Ensure correct file encoding and delimiter
 
